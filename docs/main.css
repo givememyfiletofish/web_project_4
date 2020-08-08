@@ -15,13 +15,13 @@
 .profile__avatar-button{margin:0;border:0;border-radius:50%;width:120px;height:120px;position:absolute;opacity:0;transition:opacity .3s linear}.profile__avatar-button:hover{display:block;background-color:#000;background-image:url(bbf66eb7b81dccb49b10c3cbecfd5ca3.png);background-repeat:no-repeat;background-position:50%}
 .profile{margin:40px auto auto;display:flex;align-items:center}@media screen and (max-width:720px){.profile{flex-direction:column}}
 .elements__list-item{position:relative;width:282px;height:361px;margin:auto;background-color:#fff;border-radius:10px}
-.elements__trash{position:absolute;right:15px;top:15px;width:18px;height:19.3px;background-image:url(cbc09a894bdd4c95636549e3996e6351.svg);background-position:50%;background-repeat:no-repeat;background-size:contain;background-color:transparent;border:none}
+.elements__trash{position:absolute;right:15px;top:15px;width:18px;height:19.3px;background-image:url(e3c42771bff3aaa52f76f96a20d90bef.svg);background-position:50%;background-repeat:no-repeat;background-size:contain;background-color:transparent;border:none}
 .elements__image{width:282px;height:282px;border-radius:10px 10px 0 0}.elements__image:hover{cursor:pointer}
 .elements__list{display:grid;grid-template-columns:repeat(auto-fit,minmax(282px,1fr));list-style:none;margin:0 auto;padding:0;gap:20px 18px}
 .elements__like{padding:0;width:20px;height:18px;background-image:url(df0c965524717a3fd8e99126f77c3daf.svg);background-position:50%;background-repeat:no-repeat;background-size:contain;background-color:transparent;border:none}
 .elements__location-name{height:30px;font-style:normal;font-weight:900;font-size:24px;line-height:29px;color:#000;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .elements__title-container{max-width:246px;margin:auto;display:flex;align-items:center;justify-content:space-between}
-.elements__like_liked{background-image:url(75438e944a43e4c0b404a3fd95e002f1.svg)}
+.elements__like_liked{background-image:url(a7ffe37dcb927ba0c46c5bed570b6501.svg)}
 .elements__like-container{display:flex;flex-direction:column;color:#000}
 .elements__number-likes{margin:3px 0 0;font-style:normal;font-weight:400;font-size:13px;line-height:16px;text-align:center}
 .elements{margin:51px auto auto}@media screen and (max-width:720px){.elements{margin-top:36px}}
